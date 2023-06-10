@@ -1,2 +1,2 @@
 # G4B1_DSA_GradedProject2
-G4B1_DSA_GradedProject2: Graded Coding Assignment 1
+Graded Coding Assignment 1
